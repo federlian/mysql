@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3f0879-ec90-4ccc-8487-140b55082637" name="Default Changelist" comment="" />
+    <list default="true" id="7a3f0879-ec90-4ccc-8487-140b55082637" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g2pVmbVosTqIwTSFSwHG66EwBL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,26 +32,38 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1597323273760" />
-    <state width="1240" height="275" key="GridCell.Tab.0.bottom" timestamp="1597609005136">
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1597610468798">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1240" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1597609005136" />
-    <state width="1240" height="275" key="GridCell.Tab.0.center" timestamp="1597609005136">
+    <state width="254" height="195" key="DatabaseViewActions_Filter/72.27.1848.1053@72.27.1848.1053" timestamp="1597610468798" />
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog" timestamp="1597609129647">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1240" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1597609005136" />
-    <state width="1240" height="275" key="GridCell.Tab.0.left" timestamp="1597609005136">
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1597609129647" />
+    <state x="669" y="240" width="644" height="633" key="Github.UntrackedFilesDialog" timestamp="1597609135862">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1240" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1597609005136" />
-    <state width="1240" height="275" key="GridCell.Tab.0.right" timestamp="1597609005136">
+    <state x="669" y="240" width="644" height="633" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1597609135862" />
+    <state width="1475" height="280" key="GridCell.Tab.0.bottom" timestamp="1597613259845">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1240" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1597609005136" />
-    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597322742839">
+    <state width="1475" height="280" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259845" />
+    <state width="1475" height="280" key="GridCell.Tab.0.center" timestamp="1597613259844">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="263" height="500" key="HiddenNamespacesPopup/72.27.1848.1053@72.27.1848.1053" timestamp="1597322742839" />
+    <state width="1475" height="280" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259844" />
+    <state width="1475" height="280" key="GridCell.Tab.0.left" timestamp="1597613259844">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1475" height="280" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259844" />
+    <state width="1475" height="280" key="GridCell.Tab.0.right" timestamp="1597613259845">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1475" height="280" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259845" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597609467747">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/72.27.1848.1053@72.27.1848.1053" timestamp="1597609467747" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1597322594134">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
