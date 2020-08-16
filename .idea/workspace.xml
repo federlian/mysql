@@ -27,6 +27,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597323273760">
       <screen x="72" y="27" width="1848" height="1053" />
@@ -44,22 +48,22 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="669" y="240" width="644" height="633" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1597609135862" />
-    <state width="1475" height="280" key="GridCell.Tab.0.bottom" timestamp="1597613259845">
+    <state width="1475" height="280" key="GridCell.Tab.0.bottom" timestamp="1597613502355">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1475" height="280" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259845" />
-    <state width="1475" height="280" key="GridCell.Tab.0.center" timestamp="1597613259844">
+    <state width="1475" height="280" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1597613502355" />
+    <state width="1475" height="280" key="GridCell.Tab.0.center" timestamp="1597613502354">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1475" height="280" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259844" />
-    <state width="1475" height="280" key="GridCell.Tab.0.left" timestamp="1597613259844">
+    <state width="1475" height="280" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1597613502354" />
+    <state width="1475" height="280" key="GridCell.Tab.0.left" timestamp="1597613502354">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1475" height="280" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259844" />
-    <state width="1475" height="280" key="GridCell.Tab.0.right" timestamp="1597613259845">
+    <state width="1475" height="280" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1597613502354" />
+    <state width="1475" height="280" key="GridCell.Tab.0.right" timestamp="1597613502355">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1475" height="280" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1597613259845" />
+    <state width="1475" height="280" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1597613502355" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597609467747">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -68,5 +72,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1597322594134" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597613753964">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1597613753964" />
   </component>
 </project>
